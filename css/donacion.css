@@ -1,0 +1,65 @@
+.baner {
+	width: 200px;
+	height: 450px;
+	background: #00f;
+	display: inline-block;
+	float: left;
+	margin-right: 20px;
+}
+.donacion {
+	position: relative;
+	left: 25px;
+	top: 25px;
+	display: inline-block;
+	float: left;
+	width: 800px;
+	height: 300px;
+	background: linear-gradient(90deg,#ff305b,#59ff2a,#356fff,#90abab);
+	background-size: 500%;
+	animation: colores 6s alternate infinite;
+	margin: 2px;
+}
+
+
+.Donacion {
+	position: relative;
+	left: 2.5px;
+	top: 2.5px;
+	width: 795px;
+	height: 295px;
+	background: #000;
+}
+
+.ifimg {
+	width: 300px;
+	height: 100px;
+	position: relative;
+	left: 250px;
+	top: 50px;
+}
+
+.bt{
+	position: relative;
+	left: 350px;
+	top: 50px;
+}
+
+.banner {
+	width: 200px;
+	height: 450px;
+	background: #00f;
+	display: inline-block;
+	float: right;
+	margin: 20px;
+}
+
+@keyframes colores {
+	0% {
+		background-position: 0% ;
+	}
+
+
+	100% {
+		background-position: 400% ;
+	
+}

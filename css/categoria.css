@@ -1,0 +1,147 @@
+.bannerl {
+	float: left;
+	display: inline-block;
+	background: transparent;
+	width: 200px;
+	height: 4415px;
+}
+.banner2 {
+	float: right;
+	background:transparent;
+	width: 200px;
+	height: 4410px;
+}
+
+
+.accion {
+	float: left;
+	display: inline-block;
+	background: linear-gradient(40deg,#03ff44,#4441ff,#ff3a3b,#09fff4);
+	background-size: 400%;
+	width: 900px;
+	height: 275px;
+	margin: 10px;
+}
+
+.p {
+	text-align: center;
+	width: 200px;
+	height: 60px;
+	background: #000;
+	color: #fff;
+}
+
+.accion:hover {
+	animation: colores 6s alternate infinite;
+ }
+
+.HDt {
+	text-align: center;
+	background-image: url(https://steamuserimages-a.akamaihd.net/ugc/852720452190765449/FE330C2CDBD2E7B7A5DBAA5FC248BA41612EA4EC/);
+	background-repeat: no-repeat;
+	background-position: center;
+	color: transparent;
+	-webkit-background-clip: text;
+}
+
+.animacion {
+	text-align: center;
+	background-image: url(https://i.pinimg.com/originals/e0/43/5f/e0435fd452bbed155b5b3c5128b4f7c5.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+	color: transparent;
+	-webkit-background-clip: text;
+}
+
+
+
+.titulo {
+	text-align: center;
+	background-image: url(https://media2.giphy.com/media/30pjsLvNyaRY0eoE0b/giphy.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+	color: transparent;
+	-webkit-background-clip: text;
+	text-decoration: none;
+	
+}
+
+a {
+	text-align: left;
+	color: transparent;
+}
+.titulol {
+	text-align: center;
+	background-image: url(https://i.pinimg.com/originals/e0/43/5f/e0435fd452bbed155b5b3c5128b4f7c5.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+	color: transparent;
+	-webkit-background-clip: text;
+	
+}
+
+.anime {
+	text-align: center;
+	background-image: url(https://cdn.lowgif.com/medium/e4b57398da98963b-de-colores-37-gifs-gifmaniacos-es.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+	color: transparent;
+	-webkit-background-clip: text;
+}
+
+.peliac {
+	top: 5px;
+	position:relative;
+	float: left;
+	display: inline-block;
+	width: 180px;
+	height: 240px;
+}
+
+.img-he {
+	top: 0px;
+	position: relative;
+	display: inline-block;
+	float: left;
+	padding: 10px;
+	margin-left: 0px;
+	width: 160px;
+	height: 200px;
+}
+
+.pelistext {
+	position: relative;
+	display: left;
+	color: #fff;
+	display: inline-block;
+	text-decoration: none;
+	text-align: center;
+}
+
+.mas {
+	float: left;
+	display: inline-block;
+	background: linear-gradient(40deg,#03ff44,#4441ff,#ff3a3b,#09fff4);
+	background-size: 400%;
+	width: 900px;
+	height: 50px;
+	margin: 50px;
+}
+
+.Mas {
+	text-align: center;
+	width: 50px;
+	height: 50px;
+	text-decoration: none;
+}
+
+@keyframes colores {
+	0% {
+		background-position: 0% ;
+	}
+
+
+	100% {
+		background-position: 400% ;
+	
+}

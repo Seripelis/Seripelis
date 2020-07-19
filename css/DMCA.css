@@ -1,0 +1,33 @@
+.DMCA {
+	display: inline-block;
+	float: left;
+	color: #fff;
+	width: 800px;
+	height: 1100px;
+	background: linear-gradient(#fff,#fff,#fff);
+	margin: 5px;
+}
+
+.dmca {
+	text-align: center;
+	width: 800px;
+	height: 30px;
+	background: #000;
+}
+
+.DMca {
+	font-size: 20px;
+	background: #fff;
+	width: 770px;
+	color: #000;
+	margin: 20px;
+}
+
+.banner {
+	margin: 5px;
+	display: inline-block;
+	float:right;
+	width: 500px;
+	height: 1100px;
+	background: transparent;
+}
